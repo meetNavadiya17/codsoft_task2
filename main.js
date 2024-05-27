@@ -1,4 +1,4 @@
-// Modify the function names and variables to be unique
+
 const customScrollRevealOptions = {
   distance: "50px",
   origin: "bottom",
