@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #4CAF50; /* Adjusted primary color */
-  --text-dark: #333; /* Adjusted text color */
-  --text-light: #777; /* Adjusted light text color */
-  --white: #f9f9f9; /* Adjusted background color */
+  --primary-color: #4CAF50; 
+  --text-dark: #333; 
+  --text-light: #777;
+  --white: #f9f9f9; 
   --max-width: 1200px;
 }
 
@@ -25,7 +25,7 @@ a {
 }
 
 body {
-  font-family: 'Roboto', sans-serif; /* Changed font family */
+  font-family: 'Roboto', sans-serif; 
   background-color: var(--white);
   color: var(--text-dark);
 }
